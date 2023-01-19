@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.625ffb54.css",
+    "main.js": "/static/js/main.3a046233.js",
+    "static/media/abt-img1.jpeg": "/static/media/abt-img1.fdfde636e673311b412d.jpeg",
+    "static/media/pic6.jpeg": "/static/media/pic6.397870906ee314f519e9.jpeg",
+    "static/media/pic7.jpg": "/static/media/pic7.9556405608695914b68d.jpg",
+    "static/media/Larana.png": "/static/media/Larana.769e64ebe64980cddff5.png",
+    "static/media/bg-logo.png": "/static/media/bg-logo.652e6cc0f68fada8f557.png",
+    "static/media/pic3.jpeg": "/static/media/pic3.4eebc1f84e8e89d766a4.jpeg",
+    "static/media/resume.pdf": "/static/media/resume.a204f76c9f9e7771e3e6.pdf",
+    "static/media/travel-blog.png": "/static/media/travel-blog.fe8bca7f42905229a75d.png",
+    "static/media/cs.png": "/static/media/cs.ae23f833868e0928684b.png",
+    "index.html": "/index.html",
+    "main.625ffb54.css.map": "/static/css/main.625ffb54.css.map",
+    "main.3a046233.js.map": "/static/js/main.3a046233.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.625ffb54.css",
+    "static/js/main.3a046233.js"
+  ]
+}
